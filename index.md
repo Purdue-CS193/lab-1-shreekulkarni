@@ -13,12 +13,11 @@ Syntax highlighted code block
 
 # Shree Kulkarni's first CS193 lab
 ## Header 2
-### Favorite things about Purdue
+### Favorite things about CS193
 
-- My friends
-- My dorm room
-- My Classes
-- Free HBO
+- The fact that it is an intro class
+- Helps us understand  various tools
+
 
 1. Numbered
 2. List
